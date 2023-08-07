@@ -12,6 +12,7 @@ function Functional() {
   };
   return (
     <div>
+      <h1>It is a counter pager</h1>
       <button type="submit" onClick={increment}>
         Increment
       </button>
